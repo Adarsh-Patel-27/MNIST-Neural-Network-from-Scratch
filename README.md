@@ -10,7 +10,7 @@ The project trains a neural network to recognize handwritten digits (0-9) from t
 - Implemented **forward propagation**, **backpropagation**, and **gradient descent** manually.
 - Uses **ReLU** and **Softmax** activation functions.
 - Can test predictions and show digit images.
-- Achieves decent accuracy (~85-90%) on MNIST data.
+- Achieves decent accuracy (~85%) on MNIST data.
 
 ---
 
